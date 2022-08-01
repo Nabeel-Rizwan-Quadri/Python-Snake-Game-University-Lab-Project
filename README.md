@@ -1,4 +1,4 @@
-# My-C-plus-plus-codes-1
+# Snake Game using pythn
 Contains codes of DSA in the language Python
 
 Introduction:
